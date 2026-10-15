@@ -1,0 +1,6 @@
+
+main
+*.o
+write_num
+read_num
+
